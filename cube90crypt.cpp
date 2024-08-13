@@ -13,7 +13,7 @@ int nonce_length = 16;
 using namespace std;
 
 void usage() {
-    cout << "Usage: cube26 <encrypt/decrypt> <input file> <output file> <password>" << "\n";
+    cout << "Usage: cube90 <encrypt/decrypt> <input file> <output file> <password>" << "\n";
 }
 
 int main(int argc, char** argv) {
